@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/Cngn.Sdk/Cngn.Sdk.csproj" />
+  <Project Path="tests/Cngn.Sdk.Tests/Cngn.Sdk.Tests.csproj" />
+</Solution>
